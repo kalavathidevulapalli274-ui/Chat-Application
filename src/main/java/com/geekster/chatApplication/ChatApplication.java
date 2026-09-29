@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @OpenAPIDefinition
 public class ChatApplication {
-
+//printstatement
 	public static void main(String[] args) {
 		SpringApplication.run(ChatApplication.class, args);
 		system.out.println("chat application demo");
